@@ -28,7 +28,9 @@ Instead of defining all of your request handling logic as closures in your route
 
 Let's take a look at an example of a basic controller. Note that the controller extends the base controller class included with Laravel: 
 ```php
+# App\Http\Controllers\Controller:
 //App\Http\Controllers\Controller:
+/* App\Http\Controllers\Controller: */
 
     <?php
 
