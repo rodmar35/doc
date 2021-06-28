@@ -1,6 +1,6 @@
 
 Route
-[a relative link](installation.md)
+[a relative link](installation)
 
 # Routing
 
