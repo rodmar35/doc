@@ -1,5 +1,7 @@
 
 Route
+[a relative link](installation.md)
+
 # Routing
 
 - [Basic Routing](#basic-routing)
