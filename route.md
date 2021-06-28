@@ -1,2 +1,28 @@
 
 Route
+# Routing
+
+- [Basic Routing](#basic-routing)
+    - [Redirect Routes](#redirect-routes)
+    - [View Routes](#view-routes)
+- [Route Parameters](#route-parameters)
+    - [Required Parameters](#required-parameters)
+    - [Optional Parameters](#parameters-optional-parameters)
+    - [Regular Expression Constraints](#parameters-regular-expression-constraints)
+- [Named Routes](#named-routes)
+- [Route Groups](#route-groups)
+    - [Middleware](#route-group-middleware)
+    - [Subdomain Routing](#route-group-subdomain-routing)
+    - [Route Prefixes](#route-group-prefixes)
+    - [Route Name Prefixes](#route-group-name-prefixes)
+- [Route Model Binding](#route-model-binding)
+    - [Implicit Binding](#implicit-binding)
+    - [Explicit Binding](#explicit-binding)
+- [Fallback Routes](#fallback-routes)
+- [Rate Limiting](#rate-limiting)
+    - [Defining Rate Limiters](#defining-rate-limiters)
+    - [Attaching Rate Limiters To Routes](#attaching-rate-limiters-to-routes)
+- [Form Method Spoofing](#form-method-spoofing)
+- [Accessing The Current Route](#accessing-the-current-route)
+- [Cross-Origin Resource Sharing (CORS)](#cors)
+- [Route Caching](#route-caching)
